@@ -18,10 +18,8 @@
 ![кейс1](image/2.png)
 ![кейс2](image/3.png)
 ![кейс3](image/4.png)
+
 ## 📱 Соцсети
-
-Если вдруг интересны другие мои полузаброшенные задумки:
-
 [[YouTube](https://www.youtube.com/@pravda_sempai)
 [[Rutube](https://rutube.ru/channel/41737058/)
 [[VK](https://vk.com/pravdasempai)
