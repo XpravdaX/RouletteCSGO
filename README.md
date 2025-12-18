@@ -1,4 +1,4 @@
-# SRouletteCSGO
+# RouletteCSGO
 
 **Чистая основа для симулятора открытия кейсов Godot Enginee**
 
